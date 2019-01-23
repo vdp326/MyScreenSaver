@@ -1,0 +1,9 @@
+C:\Users\vupha\Desktop\C# Projects\MyScreenSaver\MyScreenSaver\bin\Debug\MyScreenSaver.exe.config
+C:\Users\vupha\Desktop\C# Projects\MyScreenSaver\MyScreenSaver\bin\Debug\MyScreenSaver.exe
+C:\Users\vupha\Desktop\C# Projects\MyScreenSaver\MyScreenSaver\bin\Debug\MyScreenSaver.pdb
+C:\Users\vupha\Desktop\C# Projects\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.csprojResolveAssemblyReference.cache
+C:\Users\vupha\Desktop\C# Projects\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.Properties.Resources.resources
+C:\Users\vupha\Desktop\C# Projects\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.csproj.GenerateResource.Cache
+C:\Users\vupha\Desktop\C# Projects\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.exe
+C:\Users\vupha\Desktop\C# Projects\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.pdb
+C:\Users\vupha\Desktop\C# Projects\MyScreenSaver\MyScreenSaver\obj\Debug\MyScreenSaver.frmScSaver.resources
